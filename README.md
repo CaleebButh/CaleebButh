@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+#My name is caleb! Im currently a CS student studying at southern new hampshire university online. 
+#Im currently creating a discord bot for general use in one of my discord servers. 
+#A couple of my hobbies, (Aside from coding), include hiking, mountain biking, and gaming. 
 
 <!--
 **CaleebButh/CaleebButh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
