@@ -2,7 +2,7 @@
 My name is caleb! Im currently a CS student studying at southern new hampshire university online.
 Im currently creating a discord bot for general use in one of my discord servers. 
 A couple of my hobbies, (Aside from coding), include hiking, mountain biking, and gaming. 
-I hope to create a task management app for my own personal use, fitted to my personal needs at some point in the near future.
+I am currently working on a game called "Text souls" With some of my friends. The idea behind it is a "Text-based souls-like game" With real time combat, where your only defense is how fast you can type.
 
 
 <!--
