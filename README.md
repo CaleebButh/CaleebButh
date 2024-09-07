@@ -1,7 +1,6 @@
 ### Hello!
 My name is caleb! Im currently a CS student studying at southern new hampshire university online.
-Im currently creating a discord bot for general use in one of my discord servers, and a 
-portfolio website to display my progress as a developer. 
+Im currently creating a portfolio website to display my progress as a developer. 
 A couple of my hobbies, (Aside from coding), include hiking, mountain biking, and gaming. 
 
 
