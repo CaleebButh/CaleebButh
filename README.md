@@ -3,6 +3,9 @@ My name is caleb! Im currently a CS student studying at southern new hampshire u
 Im currently creating a portfolio website to display my progress as a developer. 
 A couple of my hobbies, (Aside from coding), include hiking, mountain biking, and gaming. 
 
+Check out my portfolio website here: https://caleebbuth.github.io/
+Keep in mind this is a work in progress with new stuff being added almost every day!
+
 
 
 <!--
