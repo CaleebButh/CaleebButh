@@ -1,6 +1,6 @@
 ### Hello!
 
-Check out my portfolio website here: https://caleebbuth.github.io/
+Check out Homelab documentation here: [https://caleebbuth.github.io/](https://caleebbuth.github.io/Homelab-Website/)
 
 
 
